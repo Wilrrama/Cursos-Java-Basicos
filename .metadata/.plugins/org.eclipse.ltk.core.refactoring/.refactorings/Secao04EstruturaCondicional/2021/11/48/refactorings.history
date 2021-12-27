@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;FormulaBhaskara&apos; to &apos;Uri1036FormulaBhaskara&apos;&#x0D;&#x0A;- Original project: &apos;Secao04EstruturaCondicional&apos;&#x0D;&#x0A;- Original element: &apos;FormulaBhaskara&apos;&#x0D;&#x0A;- Renamed element: &apos;Uri1036FormulaBhaskara&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;FormulaBhaskara&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{FormulaBhaskara.java[FormulaBhaskara" matchStrategy="1" name="Uri1036FormulaBhaskara" qualified="false" references="true" similarDeclarations="false" stamp="1637594702116" textual="false" version="1.0"/>
+</session>

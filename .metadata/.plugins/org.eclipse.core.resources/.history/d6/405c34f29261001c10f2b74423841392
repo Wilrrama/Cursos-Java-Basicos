@@ -1,0 +1,10 @@
+package ConceitoNoEncadeamentoNo;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		No no1 = new No( conteudo: "Conteúdo no1" );
+		
+	}
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Uri1074ParImpar&apos; to &apos;Desafio5ParOuImpar&apos;&#x0D;&#x0A;- Original project: &apos;SpreadDesafio&apos;&#x0D;&#x0A;- Original element: &apos;Uri1074ParImpar&apos;&#x0D;&#x0A;- Renamed element: &apos;Desafio5ParOuImpar&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Uri1074ParImpar&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{Uri1074ParImpar.java[Uri1074ParImpar" matchStrategy="1" name="Desafio5ParOuImpar" qualified="false" references="true" similarDeclarations="false" stamp="1638978133409" textual="false" version="1.0"/>
+</session>

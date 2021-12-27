@@ -1,0 +1,27 @@
+import java.util.Locale;
+import java.util.Scanner;
+
+public class Uri1048Salario {
+
+	public static void main(String[] args) {
+		Locale.setDefault(Locale.US);
+		Scanner sc = new Scanner(System.in);
+		
+		double salario = sc.nextDouble();
+		double novosalario = 0;
+		
+		if (salario <= 400.0) {
+			System.out.println("15%");
+		} else if (salario <= 800.00) {
+			System.out.println("12%");
+		} else if (salario <= 1200.00) {
+			System.out.println("10%");
+		} else if (salario <= 2000.00) {
+			System.out.println("7%");
+		} else {
+			System.out.println("4%");
+		}
+		
+		sc.close();
+	}
+}
